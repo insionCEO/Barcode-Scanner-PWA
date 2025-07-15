@@ -21,7 +21,7 @@ Scan product's barcode and get its nutritional values 🍎
 # Clone the Repository
 
 ```bash
-git clone https://github.com/moigonzalez/pwa-barcode-scanner.git
+git clone https://github.com/insionCEO/pwa-barcode-scanner.git
 ```
 
 # Installation
@@ -38,7 +38,7 @@ npm run dev
 
 # Contributing
 
-Please see our [contributing.md](https://github.com/moigonzalez/pwa-barcode-scanner/blob/master/contributing.md)
+Please see our [contributing.md](https://github.com/insionCEO/pwa-barcode-scanner/blob/master/contributing.md)
 
 
 # Open Food Facts
